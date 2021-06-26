@@ -6,3 +6,6 @@ This work is inspired by Namita Nandakumar's work on drafting perfectly in the N
 
 
 Currently value is judged by ProFootball Reference's Carrer Approximate Value (CarAV).
+
+
+Shiny App can be viewed here https://harimurali2628.shinyapps.io/reversedraft/
